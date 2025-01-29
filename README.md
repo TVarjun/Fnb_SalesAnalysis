@@ -1,8 +1,10 @@
 # # Ferns and Petals Sales Analysis  
-Problem Statement
+**Problem Statement**
 Ferns and Petals (FNP) is a company specializing in gift delivery for various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset includes details on products, orders, customers, and delivery timelines.
 
 The objective of this project is to analyze sales performance, customer behavior, and product trends using Excel-based data analysis techniques to generate insights that can help improve business strategy.
+
+
 **key Business Questions Addressed** - 
 Total Revenue Analysis – Determining overall revenue.
 Order and Delivery Time Analysis – Evaluating the time taken for order processing and delivery.
@@ -14,6 +16,8 @@ Top 10 Cities by Order Volume – Identifying key cities contributing to sales.
 Impact of Order Quantity on Delivery Time – Assessing whether larger orders affect delivery speed.
 Revenue Distribution by Occasion – Comparing revenue generated during different events.
 Product Popularity by Occasion – Identifying products most frequently purchased for specific celebrations.
+
+
 **Tools Used**
 Microsoft Excel – Used for data cleaning, analysis, and visualization.
 Pivot Tables and Charts – Employed for summarizing and presenting insights.
