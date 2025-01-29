@@ -1,34 +1,40 @@
 # # Ferns and Petals Sales Analysis  
+Problem Statement
+Ferns and Petals (FNP) is a company specializing in gift delivery for various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset includes details on products, orders, customers, and delivery timelines.
 
-## Project Overview  
-This project analyzes the sales data of **Ferns and Petals (FNP)**, a company specializing in gift delivery for various occasions. The dataset includes details on **products, orders, customers, and delivery timelines**. The objective is to uncover insights into **sales trends, customer behavior, and product performance** using Microsoft Excel.  
+The objective of this project is to analyze sales performance, customer behavior, and product trends using Excel-based data analysis techniques to generate insights that can help improve business strategy.
 
-## Key Business Questions Addressed  
-- What is the **total revenue** generated?  
-- How long does it take for an order to be delivered on average?  
-- What are the **monthly sales trends**?  
-- Which products generate the **highest revenue**?  
-- What is the **average customer spending**?  
-- Which **top 5 products perform the best**?  
-- Which **cities contribute the most orders**?  
-- How does **order quantity affect delivery time**?  
-- How does revenue vary across **different occasions**?  
-- Which products are **most popular for each occasion**?  
+Key Business Questions Addressed
+Total Revenue Analysis – Determining overall revenue.
+Order and Delivery Time Analysis – Evaluating the time taken for order processing and delivery.
+Monthly Sales Trends – Understanding seasonal fluctuations in sales.
+Top Revenue-Generating Products – Identifying the best-selling products.
+Customer Spending Patterns – Analyzing the average order value.
+Sales Performance of Top 5 Products – Examining revenue trends of the best-performing products.
+Top 10 Cities by Order Volume – Identifying key cities contributing to sales.
+Impact of Order Quantity on Delivery Time – Assessing whether larger orders affect delivery speed.
+Revenue Distribution by Occasion – Comparing revenue generated during different events.
+Product Popularity by Occasion – Identifying products most frequently purchased for specific celebrations.
+Tools Used
+Microsoft Excel – Used for data cleaning, analysis, and visualization.
+Pivot Tables and Charts – Employed for summarizing and presenting insights.
+Conditional Formatting – Used to highlight trends and patterns.
+Project Deliverables
+Excel Workbook with data analysis and visualizations.
+Interactive Dashboard in Excel showcasing key insights.
+Summary Report with findings and recommendations.
+Dashboard Overview
 
-## Tools Used  
-- **Microsoft Excel** – Data cleaning, analysis, and visualization  
-- **Pivot Tables & Charts** – Summarization and trend identification  
-- **Conditional Formatting** – Highlighting key insights  
-
-## Dashboard Overview  
-![Dashboard Screenshot]()  
-
----
-
-## 📌 How to Access the Dashboard  
-
-### **Option 1: Download and Open in Excel**  
-1. Click on the **fnp_dashboard.xlsx** file in this repository.  
-2. Download it and open it in **Microsoft Excel**.  
-3. Explore the **interactive Pivot Tables and Charts** in the dashboard.  
+Key Insights
+The highest revenue was recorded during Raksha Bandhan and Anniversaries, indicating strong seasonal demand.
+Soft Toys, Sweets, and Colors were among the most popular product categories.
+The average delivery time was approximately 5.53 days, with some variation based on order quantity.
+The highest number of orders were placed from Imphal, Dhanbad, and Kavali.
+March and September saw peak revenue, suggesting these months are critical for sales planning.
+Recommendations
+Optimize Inventory Management – Stock high-demand products in advance for peak occasions.
+Improve Delivery Efficiency – Reduce delivery time through better logistics planning.
+Enhance Regional Marketing – Focus on top-performing cities to maximize sales.
+Targeted Promotions – Offer discounts and bundled products for high-revenue occasions.
+Customer Retention Strategies – Encourage repeat purchases with loyalty programs.
 
